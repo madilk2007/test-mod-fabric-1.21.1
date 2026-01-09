@@ -2,5 +2,9 @@
   "item.testmod.wooden_hilt": "Wooden Hilt",
   "item.testmod.wooden_blade": "Wooden Blade",
 
-  "block.testmod.tool_bench": "Tool Bench"
+  "block.testmod.tool_bench": "Tool Bench",
+
+  "itemgroup.testmod.test_mod_items": "Test Mod Items",
+  "itemgroup.testmod.test_mod_blocks": "Test Mod Blocks"
+
 }
